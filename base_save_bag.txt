@@ -11,7 +11,7 @@
     "scaleY": 1.0,
     "scaleZ": 1.0
   },
-  "Nickname": "Base Save Bag",
+  "Nickname": "sB_Init Bag",
   "Description": "",
   "GMNotes": "",
   "AltLookAngle": {
@@ -60,7 +60,7 @@
         "scaleY": 0.5,
         "scaleZ": 0.9
       },
-      "Nickname": "Save Bag Base",
+      "Nickname": "sB_Base",
       "Description": "",
       "GMNotes": "",
       "AltLookAngle": {
