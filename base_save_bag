@@ -1,0 +1,29 @@
+GUID3ec379
+NameBag
+Transformtable: 0016BB4D
+NicknameBase Save Bag
+Description
+GMNotes
+AltLookAngleVector: { 0, 0, 0 }
+ColorDiffuseColor: { r = 0.705882, g = 0.366521, b = 0 }
+LayoutGroupSortIndex0
+Value0
+Lockedfalse
+Gridtrue
+Snaptrue
+IgnoreFoWfalse
+MeasureMovementfalse
+DragSelectabletrue
+Autoraisetrue
+Stickytrue
+Tooltiptrue
+GridProjectionfalse
+HideWhenFaceDownfalse
+Handsfalse
+MaterialIndex-1
+MeshIndex-1
+Bagtable: 0016BB50
+LuaScript
+LuaScriptState
+XmlUI
+ContainedObjectstable: 0016BB51
