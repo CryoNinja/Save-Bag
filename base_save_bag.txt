@@ -3,7 +3,7 @@
   "Nickname": "Base Save Bag",
   "Bag": {
     "Order": 0
-  }
+  },
   "ContainedObjects": [
     {
       "Name": "Custom_Token",
