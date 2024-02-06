@@ -1,5 +1,4 @@
 {
-  "GUID": "3ec379",
   "Name": "Bag",
   "Transform": {
     "posX": 46.73796,
@@ -49,7 +48,6 @@
   "XmlUI": "",
   "ContainedObjects": [
     {
-      "GUID": "53b5dd",
       "Name": "Custom_Token",
       "Transform": {
         "posX": 46.72196,
