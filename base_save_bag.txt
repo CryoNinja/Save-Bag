@@ -1,6 +1,9 @@
 {
   "Name": "Bag",
   "Nickname": "Base Save Bag",
+  "Bag": {
+    "Order": 0
+  }
   "ContainedObjects": [
     {
       "Name": "Custom_Token",
@@ -11,6 +14,6 @@
       },
       "LuaScript": "local currImage = self.getCustomObject().image  function onLoad()  if Tables.getCustomURL() ~= currImage then  currImage = self.getCustomObject().image 
  Tables.setCustomURL(currImage)  end  end",
-      }
+    }
   ]
 }
