@@ -9,7 +9,8 @@
         "ImageURL": "file:///C:\\Downloads\\table_gray.jpg",
         }
       },
-      "LuaScript": "local currImage = self.getCustomObject().image\r\n\r\nfunction onLoad()\r\n    if Tables.getCustomURL() ~= currImage then\r\n        currImage = self.getCustomObject().image\r\n        Tables.setCustomURL(currImage) \r\n    end\r\nend",
+      "LuaScript": "local currImage = self.getCustomObject().image  function onLoad()  if Tables.getCustomURL() ~= currImage then  currImage = self.getCustomObject().image 
+ Tables.setCustomURL(currImage)  end  end",
       }
   ]
 }
